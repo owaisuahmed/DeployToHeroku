@@ -1,3 +1,9 @@
+# Add the following lines to your .gitignore file to keep application artifacts out of GitHub 
+/node_modules
+ npm-debug.log
+ .DS_Store
+ /*.env
+
 # Logs
 logs
 *.log
